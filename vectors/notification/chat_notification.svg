@@ -11,6 +11,7 @@
    inkscape:export-filename="bitmap.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
+   sodipodi:docname="chat_notification.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -42,16 +43,11 @@
        x="0"
        y="0"
        ry="256"
-       inkscape:label="avatar_placeholder" /><rect
-       style="fill:#ffffff;stroke-width:0.332031"
+       inkscape:label="avatar_placeholder" /><path
        id="rect1"
-       width="170"
-       height="170"
-       x="342"
-       y="342"
-       ry="0"
+       style="fill:#ffffff;stroke-width:0.332031"
        inkscape:label="icon"
-       rx="31.875" /><g
+       d="m 373.875,342 h 106.25 C 497.78375,342 512,356.21625 512,373.875 v 106.25 C 512,497.78375 497.78375,512 480.125,512 H 373.875 C 356.21625,512 342,497.78375 342,480.125 V 373.875 C 342,356.21625 356.21625,342 373.875,342 Z" /><g
        transform="matrix(0.1509434,0,0,0.1509434,344.58491,360.32075)"
        id="g4"
        inkscape:label="excelsus_logo"
