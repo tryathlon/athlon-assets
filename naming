@@ -3,9 +3,9 @@ Images follow the following convention:
 [identifier]-[name]-[aspect-ratio]-[additional-tags].[extension]
 
 examples:
-    excelsus-logo-500x500.webp
-    excelsus-logo-500x500-nobg.webp
-    excelsus-logo-inverse-500x500-nobg.webp
+    athlon-logo-500x500.webp
+    athlon-logo-500x500-nobg.webp
+    athlon-logo-inverse-500x500-nobg.webp
 
 additional tags:
 note: tags are indicated by either a dash ( - ) or a period ( . )
