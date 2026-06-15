@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: visioncortex VTracer -->
+
+<svg
+   id="svg"
+   version="1.1"
+   viewBox="0 0 1000 1000"
+   style="display:block"
+   sodipodi:docname="AthlonLogo.svg"
+   width="1000"
+   height="1000"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="../Excelsus/excelsus-assets/images/branding/logo/athlon-logo-1000x1000.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.3169417"
+     inkscape:cx="402.28218"
+     inkscape:cy="842.42622"
+     inkscape:window-width="1470"
+     inkscape:window-height="923"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <path
+     d="m 500.69301,100 c 0,0 147.25026,266.60541 145.52627,264.8046 l 14.55577,28.16819 64.83932,120.02092 14.55576,28.16818 26.46503,48.98814 14.55577,28.16819 22.49527,42.86461 21.17202,40.41521 13.23252,29.39289 7.93951,23.26936 L 850,776.30496 v 26.94347 l -3.96975,23.26936 -6.61626,19.59525 -10.58602,23.26937 -14.55576,22.04467 L 807.65596,900 H 683.27032 l 10.58601,-17.14585 10.58601,-19.59525 9.26276,-25.71878 3.96976,-20.81996 V 783.65318 L 712.38185,759.1591 703.1191,734.66504 692.53308,715.06978 671.36106,674.65457 656.8053,646.48639 631.66351,598.72296 610.4915,558.30775 580.05671,500.74669 545.65217,435.8374 l -39.69754,-73.4822 -4.8064,-8.61595 -4.45636,7.39124 -27.78828,50.21285 -80.71833,149.41381 -14.55578,28.16818 -25.14177,47.76344 -14.55576,28.16817 -18.52553,35.5164 -18.52552,36.74111 -9.26276,23.26936 -5.293,22.04466 -1.32325,12.24704 v 12.24702 l 2.64651,19.59526 6.61625,22.04466 10.58601,23.26937 11.90926,20.81996 2.6465,6.12352 H 193.6673 L 184.40454,886.52826 171.17202,865.7083 159.26275,839.98953 152.6465,816.72016 150,794.67551 l 1.32324,-24.49408 6.61627,-28.16817 11.90926,-29.39288 25.14177,-47.76344 25.14179,-46.53872 14.55576,-28.16819 17.20227,-31.84228 14.55576,-28.16818 23.81853,-44.08933 14.55576,-28.16818 27.78829,-51.43754 14.55576,-28.16818 35.72779,-66.13398 c 0,0 53.93283,-97.79689 54.35181,-98.32373 0,0 63.56289,-113.50672 63.44895,-113.81863 z"
+     style="fill:#000000;stroke-width:1.27303"
+     id="path1"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+     inkscape:label="symbol" />
+</svg>
