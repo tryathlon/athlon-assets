@@ -1,0 +1,15 @@
+<svg width="100%" viewBox="0 0 1000 1000" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Logo loading animation</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">The logo is drawn from bottom to top, then pulses by fading in and out rhythmically.</desc>
+  <defs>
+    <clipPath id="revealClip">
+      <rect x="-50" y="-50" width="1100" height="1100">
+        
+      </rect>
+    </clipPath>
+  </defs>
+
+  <path d="m 500.69298,100 c 0,0 147.25025,266.60541 145.52635,264.80462 l 14.5557,28.16818 64.8394,120.02089 14.5557,28.16818 26.465,48.98816 14.5558,28.16817 22.4953,42.86461 21.172,40.41524 13.2325,29.39286 7.9395,23.26938 3.9698,22.04466 v 26.94345 l -3.9698,23.2694 -6.6162,19.5952 -10.5861,23.2694 -14.5557,22.0447 -6.6163,8.5729 h -124.3856 l 10.586,-17.1459 10.586,-19.5952 9.2628,-25.7188 3.9697,-20.8199 v -33.06702 l -5.293,-24.4941 -9.2627,-24.49406 -10.586,-19.59526 -21.1721,-40.41521 -14.5557,-28.16817 -25.1418,-47.76344 -21.17206,-40.41521 -30.43476,-57.56103 -34.40455,-64.9093 -39.69755,-73.48218 -4.80639,-8.61596 -4.45636,7.39124 -27.78829,50.21284 -80.71832,149.41379 -14.55579,28.16818 -25.14176,47.76344 -14.55575,28.16817 -18.52554,35.51641 -18.52551,36.74113 -9.26275,23.26934 -5.293,22.04466 -1.32326,12.24703 v 12.24701 l 2.64651,19.5953 6.61625,22.0446 10.586,23.2694 11.90925,20.82 2.64651,6.1235 H 193.6673 l -9.26275,-12.247 -13.23254,-20.82 -11.90926,-25.7188 -6.61625,-23.2693 -2.6465,-22.04471 1.32325,-24.49406 6.61625,-28.16817 11.90926,-29.3929 25.14179,-47.76344 25.14176,-46.53872 14.55579,-28.16817 17.20226,-31.8423 14.55575,-28.16817 23.81854,-44.08932 14.55575,-28.16818 27.7883,-51.43755 14.55575,-28.16818 35.7278,-66.13395 c 0,0 53.9328,-97.7969 54.3518,-98.32372 0,0 63.56288,-113.50674 63.44893,-113.81866 z" fill="#1a0f4f" clip-path="url(#revealClip)" style="fill:rgb(26, 15, 79);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.731356;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    
+  </path>
+</svg>
