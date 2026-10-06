@@ -7,5 +7,5 @@
 /fonts/*
   Cache-Control: public, max-age=31536000, immutable
 
-/*
-  Cache-Control: public, max-age=86400, stale-while-revalidate=3600
+# No catch-all Cache-Control: Pages joins every matching rule's values, so a
+# /* rule would append a second, conflicting directive to the immutable ones.
