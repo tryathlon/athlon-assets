@@ -1,0 +1,62 @@
+{
+  "capturedAt": "2026-11-15T23:38:40.586891+00:00",
+  "sourceCommit": "512969dd16467f32dd37c716b6a5f116852f2566",
+  "device": "iPhone 17",
+  "simulator": "02650D18-6CBC-4984-B291-D3A75DDF1D54",
+  "size": [
+    1206,
+    2622
+  ],
+  "launchArguments": [
+    "-uiFixture",
+    "<fixture>",
+    "-hide-debug-overlay"
+  ],
+  "captures": [
+    {
+      "name": "recovery",
+      "fixture": "recovery-overview",
+      "original": "originals/recovery.png"
+    },
+    {
+      "name": "recovery-muscles",
+      "fixture": "recovery-overview:muscles",
+      "original": "originals/recovery-muscles.png"
+    },
+    {
+      "name": "recovery-detail",
+      "fixture": "recovery-detail",
+      "original": "originals/recovery-detail.png"
+    },
+    {
+      "name": "recovery-timeline",
+      "fixture": "recovery-overview:when",
+      "original": "originals/recovery-timeline.png"
+    },
+    {
+      "name": "recovery-forecast",
+      "fixture": "recovery-overview:forecast",
+      "original": "originals/recovery-forecast.png"
+    },
+    {
+      "name": "recovery-simulate",
+      "fixture": "recovery-overview:simulate",
+      "original": "originals/recovery-simulate.png"
+    },
+    {
+      "name": "recovery-quality",
+      "fixture": "recovery-overview:quality",
+      "original": "originals/recovery-quality.png"
+    },
+    {
+      "name": "recovery-checkin",
+      "fixture": "recovery-checkin-1",
+      "original": "originals/recovery-checkin.png"
+    },
+    {
+      "name": "recovery-soreness",
+      "fixture": "recovery-checkin-2",
+      "original": "originals/recovery-soreness.png"
+    }
+  ]
+}
